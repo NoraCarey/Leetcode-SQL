@@ -46,7 +46,7 @@ SELECT COALESCE(NULL, 0);  -- 0
 SELECT COALESCE(NULL, NULL); -- NULL;
 ```
 
-Mysql [COALESCE_LIMIT_OFFSET Solution](mysql_coalesce_if_offset.sql):
+Mysql [COALESCE_LIMIT_OFFSET Solution](mysql_coalesce_limit_offset.sql):
 ```sql
 SELECT COALESCE((SELECT DISTINCT Salary
                  FROM Employee
