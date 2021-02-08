@@ -23,11 +23,14 @@ IF(condition, value_if_true, value_if_false)
 
 Mysql [IF LIMIT OFFSET Solution](mysql_if_limit_offset.sql):
 ```sql
-SELECT Salary AS SecondHighestSalary
-FROM Employee
-ORDER BY Salary DESC
-LIMIT 1, 1;
+SELECT IF(COUNT(DISTINCT Salary) = 1, NULL, (SELECT Salary
+                                             FROM Employee
+                                             ORDER BY Salary DESC
+                                             LIMIT 1, 1)) AS SecondHighestSalary
+FROM Employee;
 ```
+
+
 
 
 
