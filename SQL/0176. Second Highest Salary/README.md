@@ -14,7 +14,7 @@ In this syntax:
 * The **_offset_** specifies the offset of the first row to return. The **_offset_** of the first row is 0, not 1.
 * The **_row_count_** specifies the number of rows to return
 
-## IF Function
+## IF function
 
 The following ilustrates the **_IF_** Function:
 ```
@@ -30,6 +30,29 @@ SELECT IF(COUNT(DISTINCT Salary) = 1, NULL, (SELECT Salary
 FROM Employee;
 ```
 
+## COALESCE function
+
+The following illustrates the **_COALESCE_** function syntax:
+```
+COALESCE(value1,value2,...);
+```
+
+The **_COALESCE_** function takes a number of arguments and returns the first **_non-NULL_** argument. 
+In case all arguments are **_NULL_**, the **_COALESCE_** function returns NULL.
+
+The following shows some simple examples of using the **_COALESCE_** function:
+```
+SELECT COALESCE(NULL, 0);  -- 0
+SELECT COALESCE(NULL, NULL); -- NULL;
+```
+
+Mysql [COALESCE Solution](mysql_coalesce.sql):
+```sql
+SELECT COALESCE((SELECT DISTINCT Salary
+                 FROM Employee
+                 ORDER BY Salary DESC
+                 LIMIT 1, 1), NULL) AS SecondHighestSalary;
+```
 
 
 
