@@ -36,6 +36,25 @@ BEGIN
 END;
 ```
 
+## [**RANK**, **DENSE_RANK**, **ROW_NUMBER Functions**](https://codingsight.com/similarities-and-differences-among-rank-dense_rank-and-row_number-functions/)
+
+**_RANK_** function
+
+The **_RANK_** function is used to retrieve ranked rows based on the condition of the ORDER BY clause.
+
+Example:
+```
+SELECT name,company, power,
+RANK() OVER(PARTITION BY company ORDER BY power DESC) AS PowerRank
+FROM Cars
+```
+The **_RANK_** function skips the next N-1 positions before incrementing the counter.
+
+
+**_PARTITION BY_** used in conjunction with **_RANK_** function to change the scope of the ranking, added another level of sort to the output.
+
+
+
 
 
 
