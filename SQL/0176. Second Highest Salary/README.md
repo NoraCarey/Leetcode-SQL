@@ -54,6 +54,23 @@ SELECT COALESCE((SELECT DISTINCT Salary
                  LIMIT 1, 1), NULL) AS SecondHighestSalary;
 ```
 
+## IFNULL function
+
+**_IFNULL_** function is one of the MySQL control flow functions that accepts **_two_** arguments and returns the first argument if it is **_not NULL_**.
+
+The following illustrates the **_IFNULL_** function syntax:
+```
+IFNULL(expression_1,expression_2);
+```
+
+Mysql [IFNULL_LIMIT_OFFSET Solution](mysql_ifnull_limit_offset.sql):
+```
+SELECT IFNULL((SELECT DISTINCT Salary
+                 FROM Employee
+                 ORDER BY Salary DESC
+                 LIMIT 1, 1), NULL) AS SecondHighestSalary;
+```
+
 ## [**RANK**, **DENSE_RANK**, **ROW_NUMBER functions**](https://codingsight.com/similarities-and-differences-among-rank-dense_rank-and-row_number-functions/)
 
 **RANK function** 
