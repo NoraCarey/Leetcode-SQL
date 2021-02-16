@@ -52,6 +52,33 @@ The **_frame_boundary_1_** and **_frame_boundary_2_** can each contain one of th
 * **_UNBOUNDED FOLLOWING_**: the frame ends at the final row in the partition.
 * **_N FOLLOWING_**: a physical N of rows after the current row.
 
+## LAG(), LEAD() functions
+
+**LAG() function**(https://www.mysqltutorial.org/mysql-window-functions/mysql-lag-function/)
+
+The **_LAG()_** function is a window function that allows you to look back a number of rows and access data of that row from the current row.
+
+The following illustrates the syntax of the **_LAG()_** function:
+```
+LAG(<expression>[,offset[, default_value]]) OVER (
+    PARTITION BY expr,...
+    ORDER BY expr [ASC|DESC],...
+)
+```
+
+If **_offset_** is 0, then the LAG() function evaluates the expression for the current row. If you don’t specify the offset, then the **_LAG()_** function uses **_1_** by default. If you omit the default_value, the LAG() function returns **_NULL_** by default.
+
+**LEAD() function**(https://www.mysqltutorial.org/mysql-window-functions/mysql-lead-function/)
+
+The **_LEAD()_** function is a window function that allows you to look forward a number of rows and access data of that row from the current row.
+
+Similar to the **_LAG()_** function, the **_LEAD()_** function is very useful for calculating the difference between the current row and the subsequent row within the same result set. And the usage of **_LEAD()_** functions is the same as **_LAG()'s_**
+
+
+
+
+
+
 
 
 
