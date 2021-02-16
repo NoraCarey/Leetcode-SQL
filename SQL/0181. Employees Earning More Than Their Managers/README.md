@@ -48,9 +48,9 @@ BETWEEN frame_boundary_1 AND frame_boundary_2
 
 The frame_boundary_1 and frame_boundary_2 can each contain one of the following:
 
-**_frame_start_**: as mentioned previously.
-**_UNBOUNDED FOLLOWING_**: the frame ends at the final row in the partition.
-**_N FOLLOWING_**: a physical N of rows after the current row.
+* **_frame_start_**: as mentioned previously.
+* **_UNBOUNDED FOLLOWING_**: the frame ends at the final row in the partition.
+* **_N FOLLOWING_**: a physical N of rows after the current row.
 
 
 
