@@ -46,7 +46,7 @@ The **frame_between** is as follows:
 BETWEEN frame_boundary_1 AND frame_boundary_2  
 ```
 
-The frame_boundary_1 and frame_boundary_2 can each contain one of the following:
+The **_frame_boundary_1_** and **_frame_boundary_2_** can each contain one of the following:
 
 * **_frame_start_**: as mentioned previously.
 * **_UNBOUNDED FOLLOWING_**: the frame ends at the final row in the partition.
