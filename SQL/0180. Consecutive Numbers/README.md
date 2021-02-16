@@ -54,7 +54,7 @@ The **_frame_boundary_1_** and **_frame_boundary_2_** can each contain one of th
 
 ## LAG(), LEAD() functions
 
-**[LAG() function]**(https://www.mysqltutorial.org/mysql-window-functions/mysql-lag-function/)
+[**LAG() function**](https://www.mysqltutorial.org/mysql-window-functions/mysql-lag-function/)
 
 The **_LAG()_** function is a window function that allows you to look back a number of rows and access data of that row from the current row.
 
@@ -68,7 +68,7 @@ LAG(<expression>[,offset[, default_value]]) OVER (
 
 If **_offset_** is 0, then the LAG() function evaluates the expression for the current row. If you don’t specify the offset, then the **_LAG()_** function uses **_1_** by default. If you omit the default_value, the LAG() function returns **_NULL_** by default.
 
-**[LEAD() function]**(https://www.mysqltutorial.org/mysql-window-functions/mysql-lead-function/)
+[**LEAD() function**](https://www.mysqltutorial.org/mysql-window-functions/mysql-lead-function/)
 
 The **_LEAD()_** function is a window function that allows you to look forward a number of rows and access data of that row from the current row.
 
