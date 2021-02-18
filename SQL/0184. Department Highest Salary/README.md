@@ -1,6 +1,6 @@
 ## [**CTE or common table expression**](https://www.mysqltutorial.org/mysql-cte/)
 
-# **MySQL CTE syntax**
+# MySQL CTE syntax
 
 A **_common table expression_** is a named temporary result set that exists only within the execution scope of a single SQL statement e.g.,**_SELECT, INSERT, UPDATE, or DELETE_**.
 
@@ -22,7 +22,7 @@ SELECT * FROM cte_name;
 Notice that the number of columns in the **_query_** must be the same as the number of columns in the **_column_list_**. If you **_omit_** the **_column_list_**, the **_CTE_** will use the column list of the query that defines the **_CTE_**
 
 
-# **The WITH clause usages**
+# The WITH clause usages
 
 There are some contexts that you can use the **_WITH_** clause to make **_common table expressions_**:
 
