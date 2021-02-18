@@ -63,7 +63,7 @@ WHERE
 );
 ```
 
-MySQL[ROW NUMBER SOLUTION](mysql_delete_duplicate_rows_using_row_number.sql)
+MySQL [ROW NUMBER SOLUTION](mysql_delete_duplicate_rows_using_row_number.sql)
 
 
 
