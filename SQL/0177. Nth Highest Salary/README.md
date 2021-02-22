@@ -3,7 +3,7 @@
 **_SET_** Syntax for Variable Assignment
 **_SET_** syntax for variable assignment enables you to assign values to different types of variables that affect the operation of the server or clients:
 
-**User-Defined Variable Assignment**
+# User-Defined Variable Assignment
 
 You can store a value in a user-defined variable in one statement and refer to it later in another statement. 
 This enables you to pass values from one statement to another.
@@ -20,7 +20,7 @@ SET @name = 43;
 SET @total_tax = (SELECT SUM(tax) FROM taxable_transactions);
 ```
 
-**Parameter and Local Variable Assignment**
+# Parameter and Local Variable Assignment
 
 **_SET_** applies to parameters and local variables in the context of the stored object within which they are defined.
 
