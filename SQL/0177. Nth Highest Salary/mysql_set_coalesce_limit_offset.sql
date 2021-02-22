@@ -1,4 +1,5 @@
 
+# Becasue the N is a local varialbe assigment it is not user defined variable
 
 CREATE FUNCTION getNthHighestSalary(N INT) 
 RETURNS INT
