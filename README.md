@@ -9,7 +9,7 @@ This repository covers the Leetcode SQL problems, and solved by **_MySQL_**
 | **#** | **Problems** | **Solutions** | **Level** | **Concept** |
 |---|---|---|---|---|
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0175.Combine%20Two%20Tables) | Easy | Left Join |
-| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0176.%20Second%20Highest%20Salary) | Easy | Limit-offset / Coalesce / Ifnull |
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0176.%20Second%20Highest%20Salary) | Easy | Limit-offset / Coalesce / Ifnull / If |
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0177.%20Nth%20Highest%20Salary) | Medium | Set |
 | 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0178.%20Rank%20Scores) | Medium | Window Function(Dense_Rank) |
 | 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0180.%20Consecutive%20Numbers) | Medium | Window Function(Lag / Lead) |
