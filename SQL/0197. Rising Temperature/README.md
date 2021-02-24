@@ -22,10 +22,10 @@ Similar to the **_LAG()_** function, the **_LEAD()_** function is very useful fo
 
 ## [DATEDIFF function](https://dev.mysql.com/doc/refman/8.0/en/date-and-time-functions.html#function_datediff)
 
-The syntax of the MySQL **DATEDIFF function** is as follows:
+The syntax of the MySQL **_DATEDIFF function_** is as follows:
 ```
 DATEDIFF(date_expression_1,date_expression_2);
 ```
 
-date_expression_1 and date_expression_2 are **date** or **date-and-time** expressions. Only the **date** parts of the values are used in the calculation.
+date_expression_1 and date_expression_2 are **_date_** or **_date-and-time_** expressions. Only the **_date_** parts of the values are used in the calculation.
 
