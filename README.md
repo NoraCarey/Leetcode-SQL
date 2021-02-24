@@ -18,7 +18,7 @@ This repository covers the Leetcode SQL problems, and solved by **_MySQL_**
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0183.%20Customers%20Who%20Never%20Order) | Easy | Left Join / Not In |
 | 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0184.%20Department%20Highest%20Salary) | Medium | CTE / Window Function(Rank) |
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0196.%20Delete%20Duplicate%20Emails) | Easy | Delete Duplicate Rows |
-| 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0197.%20Rising%20Temperature) | Easy | Window Function(Lag) |
+| 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0197.%20Rising%20Temperature) | Easy | Window Function(Lag) / Datediff Function |
 
 
 
