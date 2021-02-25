@@ -5,3 +5,4 @@ FROM Activity
 GROUP BY player_id
 ORDER BY player_id;
 
+
