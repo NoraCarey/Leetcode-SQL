@@ -10,3 +10,4 @@ WHERE u1.Banned = 'No' # AND u2.Banned = 'No'
 GROUP BY t.Request_at
 ORDER BY t.Request_at;
 
+
