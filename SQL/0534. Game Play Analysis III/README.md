@@ -2,15 +2,15 @@
 
 When we add a **_OVER ()_** syntax after the **_SUM(i)_**, it signals that this is a **_window function_**, as opposed to a **_grouped aggregate function_**.
 
-## This is the set of **_aggregate functions_** in MySQL that support windowing:
+**This is the set of **_aggregate functions_** in MySQL that support windowing:
 
-**COUNT, SUM, AVG, MIN, MAX, BIT_OR, BIT_AND, BIT_XOR,
+COUNT, SUM, AVG, MIN, MAX, BIT_OR, BIT_AND, BIT_XOR,
 STDDEV_POP (and its synonyms STD, STDDEV), STDDEV_SAMP,
 VAR_POP (and its synonym VARIANCE) and VAR_SAMP**
 
-## The set of **_specialized window functions_** are:
+**The set of **_specialized window functions_** are:
 
-**RANK, DENSE_RANK, PERCENT_RANK, CUME_DIST, NTILE,
+RANK, DENSE_RANK, PERCENT_RANK, CUME_DIST, NTILE,
 ROW_NUMBER, FIRST_VALUE, LAST_VALUE, NTH_VALUE, LEAD
 and LAG
 
