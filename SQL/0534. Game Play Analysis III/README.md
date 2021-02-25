@@ -5,31 +5,31 @@ When we add a **_OVER ()_** syntax after the **_SUM(i)_**, it signals that this 
 **This is the set of aggregate functions in MySQL that support windowing:**
 
 * COUNT
-*SUM
-*AVG
-*MIN
-*MAX
-*BIT_OR 
-*BIT_AND 
-*BIT_XOR
-*STDDEV_POP (and its synonyms STD, STDDEV)
-*STDDEV_SAMP
-*VAR_POP (and its synonym VARIANCE)
-*VAR_SAMP
+* SUM
+* AVG
+* MIN
+* MAX
+* BIT_OR 
+* BIT_AND 
+* BIT_XOR
+* STDDEV_POP (and its synonyms STD, STDDEV)
+* STDDEV_SAMP
+* VAR_POP (and its synonym VARIANCE)
+* VAR_SAMP
 
 **The set of specialized window functions are:**
 
-RANK, 
-DENSE_RANK, 
-PERCENT_RANK, 
-CUME_DIST, 
-NTILE,
-ROW_NUMBER, 
-FIRST_VALUE, 
-LAST_VALUE, 
-NTH_VALUE, 
-LEAD,
-LAG
+* RANK
+* DENSE_RANK 
+* PERCENT_RANK 
+* CUME_DIST
+* NTILE
+* ROW_NUMBER 
+* FIRST_VALUE 
+* LAST_VALUE
+* NTH_VALUE 
+* LEAD
+* LAG
 
 
 
