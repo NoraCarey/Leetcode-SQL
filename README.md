@@ -19,7 +19,14 @@ This repository covers the Leetcode SQL problems, and solved by **_MySQL_**
 | 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0184.%20Department%20Highest%20Salary) | Medium | CTE / Window Function(Rank) |
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0196.%20Delete%20Duplicate%20Emails) | Easy | Delete Duplicate Rows |
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0197.%20Rising%20Temperature) | Easy | Window Function(Lag) / DATEDIFF Function |
-| 262 | [Trips and Users](https://leetcode.com/problems/trips-and-users/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0262.%20Trips%20and%20Users) | Hard |  |
+| 262 | [Trips and Users](https://leetcode.com/problems/trips-and-users/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0262.%20Trips%20and%20Users) | Hard | CASE Expression |
+| 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0511.%20Game%20Play%20Analysis%20I) | Easy | Min() Function / Window Function(First_Value)  |
+| 512 | [Game Play Analysis II](https://leetcode.com/problems/game-play-analysis-ii/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0512.%20Game%20Play%20Analysis%20II) | Easy | Join / Window Function(First_Value)  |
+| 534 | [Game Play Analysis III](https://leetcode.com/problems/game-play-analysis-iii/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0534.%20Game%20Play%20Analysis%20III) | Medium | Window Function(Sum)  |
+
+
+
+
 
 
 
