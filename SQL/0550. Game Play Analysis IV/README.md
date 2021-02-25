@@ -21,4 +21,7 @@ The **_NTH_VALUE() function_** returns the value of expression from the Nth row 
 If there is no frame caluse to set limit for the output, the outputs for (N-1) rows is **_NULL_**. 
 For example, if we want to get the second highest salary using NTH_VALUE, the output for the first row with the highest salary is NULL.
 
+## [Window Function Frame Specification]()
+
+
 
