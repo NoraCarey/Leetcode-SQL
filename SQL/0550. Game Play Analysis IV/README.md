@@ -21,7 +21,7 @@ The **_NTH_VALUE() function_** returns the value of expression from the Nth row 
 If there is no frame caluse to set limit for the output, the outputs for (N-1) rows is **_NULL_**. 
 For example, if we want to get the second highest salary using NTH_VALUE, the output for the first row with the highest salary is NULL.
 
-## [Window Function Frame Specification]()
+## [Window Function Frame Specification](https://docs.oracle.com/cd/E17952_01/mysql-8.0-en/window-functions-frames.html#:~:text=The%20definition%20of%20a%20window,how%20to%20define%20the%20subset.&text=By%20defining%20a%20frame%20to,running%20totals%20for%20each%20row.)
 
 
 
