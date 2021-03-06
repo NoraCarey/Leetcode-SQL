@@ -1,0 +1,11 @@
+
+
+SELECT Id, Company, Salary
+FROM (SELECT Id, Company, Salary,
+             ROW_NUMBER() OVER(PARTITION BY Company
+                               ORDER BY Salary) AS ranking,
+             COUNT(Salary) OVER(PARTITION BY Company) AS count_num
+      FROM Employee) tbl
+WHERE ranking = CEIL((count_num + 1) / 2) OR ranking = FLOOR((count_num + 1) / 2);
+
+
