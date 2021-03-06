@@ -23,6 +23,8 @@ This repository covers the Leetcode SQL problems, and solved by **_MySQL_**
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0511.%20Game%20Play%20Analysis%20I) | Easy | Min() Function / Window Function(First_Value)  |
 | 512 | [Game Play Analysis II](https://leetcode.com/problems/game-play-analysis-ii/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0512.%20Game%20Play%20Analysis%20II) | Easy | Join / Window Function(First_Value)  |
 | 534 | [Game Play Analysis III](https://leetcode.com/problems/game-play-analysis-iii/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0534.%20Game%20Play%20Analysis%20III) | Medium | Window Function(Sum)  |
+| 550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0550.%20Game%20Play%20Analysis%20IV) | Medium | Window Function(Nth_Value)  |
+
 
 
 
