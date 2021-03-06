@@ -5,6 +5,7 @@ Built in functions are simply functions come already implemented in the MySQL se
 * String functions
 * Numeric functions
 * Date and time functions
+* Aggregate functions (count(), sum(), avg(), max(), min())
 * Other functions
 
 ## COUNT() Window Function
