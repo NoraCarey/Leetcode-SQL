@@ -8,7 +8,7 @@ Built in functions are simply functions come already implemented in the MySQL se
 * Aggregate functions (count(), sum(), avg(), max(), min())
 * Other functions
 
-## COUNT() Window Function
+## COUNT(https://medium.com/analytics-vidhya/mysql-window-functions-37e1bb222d30) Window Function
 
 ## ROW_NUMBER() Window Function
 
