@@ -22,4 +22,6 @@ This function will return one of the following:
 
 The natural index of the median should be within the range of frequency intervals of each value. 
 
+For Example:
+
 ![](image.png)
