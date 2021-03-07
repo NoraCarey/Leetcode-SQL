@@ -25,6 +25,8 @@ This repository covers the Leetcode SQL problems, and solved by **_MySQL_**
 | 534 | [Game Play Analysis III](https://leetcode.com/problems/game-play-analysis-iii/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0534.%20Game%20Play%20Analysis%20III) | Medium | Window Function(Sum)  |
 | 550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0550.%20Game%20Play%20Analysis%20IV) | Medium | Window Function(Nth_Value)  |
 | 569 | [Median Employee Salary](https://leetcode.com/problems/median-employee-salary/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0569.%20Median%20Employee%20Salary) | Hard | Window Function(COUNT) / Window Function(Row_Number) / Ceil() / Floor() |
+| 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0570.%20Managers%20with%20at%20Least%205%20Direct%20Reports) | Medium | Group By / Having / Inner Join |
+
 
 
 
