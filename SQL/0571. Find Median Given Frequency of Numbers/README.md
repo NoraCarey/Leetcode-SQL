@@ -22,4 +22,4 @@ This function will return one of the following:
 
 The natural index of the median should be within the range of frequency intervals of each value. 
 
-[For Example](https://github.com/NoraCarey/Leetcode-SQL/blob/main/SQL/0571.%20Find%20Median%20Given%20Frequency%20of%20Numbers/image.png)
+![](image.png)
