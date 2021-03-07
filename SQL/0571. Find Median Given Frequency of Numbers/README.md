@@ -18,7 +18,7 @@ This function will return one of the following:
 * If number < 0, it returns -1
 
 
-[Frequency Interval Explaination](https://leetcode.com/problems/find-median-given-frequency-of-numbers/discuss/681337/Super-Simple-5-Lines)
+# [Frequency Interval Explaination](https://leetcode.com/problems/find-median-given-frequency-of-numbers/discuss/681337/Super-Simple-5-Lines)
 
 The natural index of the median should be within the range of frequency intervals of each value. 
 
