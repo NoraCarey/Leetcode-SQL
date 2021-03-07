@@ -11,7 +11,9 @@ Built in functions are simply functions come already implemented in the MySQL se
 ## [COUNT Window Function](https://medium.com/analytics-vidhya/mysql-window-functions-37e1bb222d30)
 
 The **COUNT()** window function counts the number of input rows. 
+
 **COUNT(*)** counts all of the rows in the target table if they **do or do not include nulls**. 
+
 **COUNT(expression)** computes the number of rows with **non-NULL values** in a specific column or expression.
 
 ## ROW_NUMBER() Window Function
