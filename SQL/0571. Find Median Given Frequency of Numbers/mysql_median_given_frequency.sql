@@ -10,7 +10,6 @@
 -- So in general, the median's frequency should be equal or grater than the absolute difference of its bigger elements and small ones in an array no matter 
 -- whether it has odd or even amount of numbers and whether they are distinct. This rule is the key, and it is represented as the following code.
 
-# Mehtod 1
 
 SELECT AVG(n.Number) AS median
 FROM Numbers n
@@ -22,18 +21,4 @@ WHERE n.Frequency >= ABS((SELECT SUM(Frequency)
                           WHERE n.Number <= Number));
                           
                           
-# Method 2
-
-
-                          
-
-WITH cte AS (SELECT Number, Frequency,
-                    SUM(Frequency) OVER(ORDER BY Number) AS Freq,
-                    ((SUM(Frequency) OVER()) / 2) AS median_num
-                    
-             FROM Numbers)
-             
-SELECT AVG(Number) AS median
-FROM cte
-WHERE median_num BETWEEN (Freq - Frequency) AND Freq;
 
