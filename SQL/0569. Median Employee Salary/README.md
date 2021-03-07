@@ -16,8 +16,21 @@ The **COUNT()** window function counts the number of input rows.
 
 **COUNT(expression)** computes the number of rows with **non-NULL values** in a specific column or expression.
 
-## ROW_NUMBER() Window Function
+## [ROW_NUMBER() Window Function](https://codingsight.com/similarities-and-differences-among-rank-dense_rank-and-row_number-functions/)
+
+Unlike the **_RANK_** and **_DENSE_RANK_** functions, the **_ROW_NUMBER_** function simply returns the row number of the sorted records starting with 1. 
+
+Example: 
+```
+SELECT name, company, power,
+ROW_NUMBER() OVER(PARTITION BY company ORDER BY power DESC) AS RowRank
+FROM Cars
+```
 
 ## CEIL(), FLOOR() function
+
+The **CEIL()** function returns the smallest integer value that is bigger than or equal to a number.
+
+The **FLOOR()** function returns the largest integer value that is smaller than or equal to a number.
 
 
