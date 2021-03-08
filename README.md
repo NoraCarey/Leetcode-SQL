@@ -27,6 +27,13 @@ This repository covers the Leetcode SQL problems, and solved by **_MySQL_**
 | 569 | [Median Employee Salary](https://leetcode.com/problems/median-employee-salary/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0569.%20Median%20Employee%20Salary) | Hard | Window Function(COUNT) / Window Function(Row_Number) / Ceil() / Floor() |
 | 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0570.%20Managers%20with%20at%20Least%205%20Direct%20Reports) | Medium | Group By / Having / Inner Join |
 | 571 | [Find Median Given Frequency of Numbers](https://leetcode.com/problems/find-median-given-frequency-of-numbers/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0571.%20Find%20Median%20Given%20Frequency%20of%20Numbers) | Hard | Median Given Frequency Problem |
+| 574 | [Winning Candidate](https://leetcode.com/problems/winning-candidate/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0574.%20Winning%20Candidate) | Medium | Limit / Window Function(Rank) |
+| 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0577.%20Employee%20Bonus) | Easy | Left Join / Coalesce / Ifnull / Is Null |
+| 578 | [Get Highest Answer Rate Question](https://leetcode.com/problems/get-highest-answer-rate-question/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0578.%20Get%20Highest%20Answer%20Rate%20Question) | Medium | If Statement / Case Statement / Max |
+
+
+
+
 
 
 
