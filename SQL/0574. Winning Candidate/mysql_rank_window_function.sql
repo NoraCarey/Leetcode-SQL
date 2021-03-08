@@ -2,12 +2,12 @@
 
 # Assume there will be more than one winning candidate
 
-SELECT b.Name
-FROM (SELECT a.id, a.Name, RANK() OVER(ORDER BY a.count_nums DESC) AS ranking
-      FROM (SELECT c.id, c.Name, COUNT(c.id) AS count_nums
-            FROM Candidate c 
+SELECT Name
+FROM (SELECT Name, RANK() OVER(ORDER BY vote_num DESC) AS ranking
+      FROM (SELECT Name, COUNT(v.CandidateId) AS vote_num
+            FROM Candidate c
             RIGHT JOIN Vote v ON c.id = v.CandidateId
-            GROUP BY c.id, c.Name) a) b
-WHERE b.ranking = 1;
+            GROUP BY Name) tbl1) tbl2
+WHERE ranking = 1;
 
 
