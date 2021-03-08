@@ -31,6 +31,8 @@ This repository covers the Leetcode SQL problems, and solved by **_MySQL_**
 | 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0577.%20Employee%20Bonus) | Easy | Left Join / Coalesce / Ifnull / Is Null |
 | 578 | [Get Highest Answer Rate Question](https://leetcode.com/problems/get-highest-answer-rate-question/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0578.%20Get%20Highest%20Answer%20Rate%20Question) | Medium | If Statement / Case Statement / Max |
 | 579 | [Find Cumulative Salary of an Employee](https://leetcode.com/problems/find-cumulative-salary-of-an-employee/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0579.%20Find%20Cumulative%20Salary%20of%20an%20Employee) | Hard | Window Function(Last_Value) / Window Function Frame Specification |
+| 580 | [Count Student Number in Departments](https://leetcode.com/problems/count-student-number-in-departments/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0580.%20Count%20Student%20Number%20in%20Departments) | Medium | Right Join / Group By |
+
 
 
 
