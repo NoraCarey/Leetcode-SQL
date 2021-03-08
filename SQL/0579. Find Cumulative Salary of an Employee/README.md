@@ -23,7 +23,7 @@ frame_units:
     {ROWS OR RANGE}
 ```
 
-In the **absence of a frame clause**, the default frame depends on whether an **ORDER BY** clause is present.
+## In the **absence of a frame clause**, the default frame depends on whether an **ORDER BY** clause is present.
 
 * **With ORDER BY**: The default frame includes rows from the **partition start through the current row, including all peers of the current row** (rows equal to the current row according to the ORDER BY clause). The default is equivalent to this frame specification:
 
@@ -37,6 +37,16 @@ RANGE BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW
 RANGE BETWEEN UNBOUNDED PRECEDING AND UNBOUNDED FOLLOWING
 ```
 
+## The **frame_units** value indicates the type of relationship between the current row and frame rows:
 
+* **ROWS**: The frame is defined by beginning and ending row positions. Offsets are differences in **row numbers** from the current row number.
+
+* **RANGE**: The frame is defined by rows within a value range. Offsets are differences in **row values** from the current row value.
+
+## The **frame_extent** value indicates the start and end points of the frame.
+
+* You can specify just the start of the frame, in which case the current row is implicitly the end
+
+or use BETWEEN to specify both frame endpoints:
 
 [Window Function Frame Specification Example](https://blog.csdn.net/georgelee954/article/details/105763302?utm_medium=distribute.pc_relevant.none-task-blog-searchFromBaidu-14.control&dist_request_id=&depth_1-utm_source=distribute.pc_relevant.none-task-blog-searchFromBaidu-14.control)
