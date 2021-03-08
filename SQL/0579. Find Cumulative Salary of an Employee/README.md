@@ -92,11 +92,16 @@ For **ROWS**, the bound is expr rows after the current row.
 
 For **RANGE**, the bound is the rows with values equal to the current row value plus expr; if the current row value is **NULL**, the bound is the peers of the row.
 
+For **expr PRECEDING** (and **expr FOLLOWING**), **expr** can be a **nonnegative numeric literal**, or a temporal interval of the form **INTERVAL val unit**. 
 
+For **INTERVAL expressions**, **val** specifies nonnegative interval value, and **unit** is a keyword indicating the units in which the value should be interpreted. For example, **DAY, MINUTE_SECOND**
 
-
-
-
-or use BETWEEN to specify both frame endpoints:
+Examples of valid **expr PRECEDING** and **expr FOLLOWING** indicators:
+```
+10 PRECEDING
+INTERVAL 5 DAY PRECEDING
+5 FOLLOWING
+INTERVAL '2:30' MINUTE_SECOND FOLLOWING
+```
 
 [Window Function Frame Specification Example](https://blog.csdn.net/georgelee954/article/details/105763302?utm_medium=distribute.pc_relevant.none-task-blog-searchFromBaidu-14.control&dist_request_id=&depth_1-utm_source=distribute.pc_relevant.none-task-blog-searchFromBaidu-14.control)
