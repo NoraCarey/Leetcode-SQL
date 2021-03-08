@@ -4,7 +4,7 @@
 SELECT Id, Month, cumulative_salary as Salary
 FROM (SELECT Id, 
              # calculate the cumulative salary over a period of 3 months
-             # frame
+             # frame_clause means select the current row and 
              Month, SUM(Salary) OVER(PARTITION BY Id
                                      ORDER BY Month
                                      ROWS 2 PRECEDING) AS cumulative_salary,
