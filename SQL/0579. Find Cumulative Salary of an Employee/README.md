@@ -104,4 +104,4 @@ INTERVAL 5 DAY PRECEDING
 INTERVAL '2:30' MINUTE_SECOND FOLLOWING
 ```
 
-[Window Function Frame Specification Example](https://blog.csdn.net/georgelee954/article/details/105763302?utm_medium=distribute.pc_relevant.none-task-blog-searchFromBaidu-14.control&dist_request_id=&depth_1-utm_source=distribute.pc_relevant.none-task-blog-searchFromBaidu-14.control)
+![]()
