@@ -1,4 +1,15 @@
-[LAST_VALUE]()
+# [LAST_VALUE](https://www.mysqltutorial.org/mysql-window-functions/mysql-last_value-function/)
+
+The **LAST_VALUE()** function is a window function that allows you to select the last row in an ordered set of rows.
+
+The following shows the syntax of the **LAST_VALUE()** function:
+```
+LAST_VALUE (expression) OVER (
+   [partition_clause]
+   [order_clause]
+   [frame_clause]
+)
+```
 
 [Window Function Frame Specification](https://docs.oracle.com/cd/E17952_01/mysql-8.0-en/window-functions-frames.html#:~:text=The%20definition%20of%20a%20window,how%20to%20define%20the%20subset.&text=By%20defining%20a%20frame%20to,running%20totals%20for%20each%20row.)
 
