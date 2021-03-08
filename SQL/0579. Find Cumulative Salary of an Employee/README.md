@@ -23,7 +23,7 @@ frame_units:
     {ROWS OR RANGE}
 ```
 
-# In the **absence of a frame clause**, the default frame depends on whether an **ORDER BY** clause is present.
+In the **absence of a frame clause**, the default frame depends on whether an **ORDER BY** clause is present.
 
 * **With ORDER BY**: The default frame includes rows from the **partition start through the current row, including all peers of the current row** (rows equal to the current row according to the ORDER BY clause). The default is equivalent to this frame specification:
 
