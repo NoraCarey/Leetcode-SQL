@@ -45,7 +45,57 @@ RANGE BETWEEN UNBOUNDED PRECEDING AND UNBOUNDED FOLLOWING
 
 ## The **frame_extent** value indicates the start and end points of the frame.
 
-* You can specify just the start of the frame, in which case the current row is implicitly the end
+There are two methods to write the frame_extent
+
+* You can specify just the **start of the frame**, in which case the current row is implicitly the end:
+```
+frame_extent:
+    {frame_start}
+```
+
+* Or use **BETWEEN** to specify both frame endpoints:
+```
+frame_extent:
+    {BETWEEN frame_start AND frame_end}
+```
+
+The **frame_start** or **frame_end** has following forms:
+```
+frame_start, frame_end: {
+    CURRENT ROW
+  | UNBOUNDED PRECEDING
+  | UNBOUNDED FOLLOWING
+  | expr PRECEDING
+  | expr FOLLOWING
+}
+```
+
+With **BETWEEN** syntax, **frame_start** must occur before than **frame_end**.
+
+The permitted **frame_start and frame_end** values have these meanings:
+
+* **CURRENT ROW**: For **ROWS**, the bound is the current row. For **RANGE**, the bound is the peers of the current row.
+
+* **UNBOUNDED PRECEDING**: The bound is the **first partition row**.
+
+* **UNBOUNDED FOLLOWING**: The bound is the **last partition row**.
+
+* **expr PRECEDING**: 
+
+For **ROWS**, the bound is expr rows before the current row. 
+
+For **RANGE**, the bound is the rows with values equal to the current row value minus expr; if the current row value is NULL, the bound is the peers of the row. If the current row value is **NULL**, the bound is the peers of the row.
+
+* **expr FOLLOWING**: 
+
+For **ROWS**, the bound is expr rows after the current row. 
+
+For **RANGE**, the bound is the rows with values equal to the current row value plus expr; if the current row value is **NULL**, the bound is the peers of the row.
+
+
+
+
+
 
 or use BETWEEN to specify both frame endpoints:
 
