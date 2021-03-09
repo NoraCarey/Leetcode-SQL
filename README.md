@@ -32,6 +32,11 @@ This repository covers the Leetcode SQL problems, and solved by **_MySQL_**
 | 578 | [Get Highest Answer Rate Question](https://leetcode.com/problems/get-highest-answer-rate-question/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0578.%20Get%20Highest%20Answer%20Rate%20Question) | Medium | If Statement / Case Statement / Max |
 | 579 | [Find Cumulative Salary of an Employee](https://leetcode.com/problems/find-cumulative-salary-of-an-employee/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0579.%20Find%20Cumulative%20Salary%20of%20an%20Employee) | Hard | Window Function(Last_Value) / Window Function Frame Specification |
 | 580 | [Count Student Number in Departments](https://leetcode.com/problems/count-student-number-in-departments/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0580.%20Count%20Student%20Number%20in%20Departments) | Medium | Right Join / Group By |
+| 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0584.%20Find%20Customer%20Referee) | Easy | NULL value |
+| 585 | [Investments in 2016](https://leetcode.com/problems/investments-in-2016/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0585.%20Investments%20in%202016) | Medium | CONCAT() Function / IN subquery / EXISTS subquery |
+| 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders) | Easy | Subquery with ALL |
+
+
 
 
 
