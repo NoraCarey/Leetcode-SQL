@@ -28,7 +28,7 @@ The syntax for the **EXISTS condition** in MySQL is:
 WHERE EXISTS ( subquery );
 ```
 
-subquery: A **SELECT** statement that usually starts with **SELECT *** rather than a list of expressions or column names.
+subquery: A **SELECT** statement that usually starts with **SELECT *'** rather than a list of expressions or column names.
 
 
 
