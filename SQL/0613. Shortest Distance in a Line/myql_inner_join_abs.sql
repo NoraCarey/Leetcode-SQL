@@ -1,5 +1,5 @@
 
-# Assume there is no duplicate point in the table
+# Assume the table may have duplicate points 
 
 WITH cte AS (SELECT x, ROW_NUMBER() OVER() AS ranking
              FROM point)
