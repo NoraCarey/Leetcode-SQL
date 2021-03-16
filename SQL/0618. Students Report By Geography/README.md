@@ -1,3 +1,4 @@
+## MAX Function only consider Non-NULL values
 
 ## [Assignment Operators :=](https://dev.mysql.com/doc/refman/8.0/en/assignment-operators.html)
 
