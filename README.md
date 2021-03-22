@@ -38,6 +38,12 @@ This repository covers the Leetcode SQL problems, and solved by **_MySQL_**
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0595.%20Big%20Countries) | Easy | Union Operator |
 | 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0596.%20Classes%20More%20Than%205%20Students) | Easy | Distinct statement |
 | 597 | [Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0597.%20Friend%20Requests%20I:%20Overall%20Acceptance%20Rate) | Easy | Round / Ifnull |
+| 601 | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0601.%20Human%20Traffic%20of%20Stadium) | Hard | Consecutive id Problem |
+
+
+
+
+
 
 
 
