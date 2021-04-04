@@ -46,6 +46,10 @@ This repository covers the Leetcode SQL problems, and solved by **_MySQL_**
 | 610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0610.%20Triangle%20Judgement) | Easy | Case Statement |
 | 612 | [Shortest Distance in a Plane](https://leetcode.com/problems/shortest-distance-in-a-plane/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0612.%20Shortest%20Distance%20in%20a%20Plane) | Medium | Self Join / SQRT Function / POWER Function / POW Function |
 | 613 | [Shortest Distance in a Line](https://leetcode.com/problems/shortest-distance-in-a-line/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0613.%20Shortest%20Distance%20in%20a%20Line) | Easy | Self Join / ABS Function |
+| 614 | [Second Degree Follower](https://leetcode.com/problems/second-degree-follower/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0614.%20Second%20Degree%20Follower) | Medium | COUNT DISTINCT |
+| 615 | [Average Salary: Departments VS Company](https://leetcode.com/problems/average-salary-departments-vs-company/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0615.%20Average%20Salary:%20Departments%20VS%20Company) | Hard | DATE_FORMAT Function / AVG Window Function |
+
+
 
 
 
