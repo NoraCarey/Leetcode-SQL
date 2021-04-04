@@ -39,6 +39,22 @@ This repository covers the Leetcode SQL problems, and solved by **_MySQL_**
 | 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0596.%20Classes%20More%20Than%205%20Students) | Easy | Distinct statement |
 | 597 | [Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0597.%20Friend%20Requests%20I:%20Overall%20Acceptance%20Rate) | Easy | Round / Ifnull |
 | 601 | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0601.%20Human%20Traffic%20of%20Stadium) | Hard | Consecutive id Problem |
+| 602 | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0602.%20Friend%20Requests%20II:%20Who%20Has%20the%20Most%20Friends) | Medium | Union / Union All Operator |
+| 603 | [Consecutive Available Seats](https://leetcode.com/problems/consecutive-available-seats/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0603.%20Consecutive%20Available%20Seats) | Easy | Consecutive Number Problem |
+| 607 | [Sales Person](https://leetcode.com/problems/sales-person/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0607.%20Sales%20Person) | Easy | Not In Subquery |
+| 608 | [Tree Node](https://leetcode.com/problems/tree-node/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0608.%20Tree%20Node) | Medium | Case Statement |
+| 610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0610.%20Triangle%20Judgement) | Easy | Case Statement |
+| 612 | [Shortest Distance in a Plane](https://leetcode.com/problems/shortest-distance-in-a-plane/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0612.%20Shortest%20Distance%20in%20a%20Plane) | Medium | Self Join / SQRT Function / POWER Function / POW Function |
+| 613 | [Shortest Distance in a Line](https://leetcode.com/problems/shortest-distance-in-a-line/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0613.%20Shortest%20Distance%20in%20a%20Line) | Easy | Self Join / ABS Function |
+
+
+
+
+
+
+
+
+
 
 
 
