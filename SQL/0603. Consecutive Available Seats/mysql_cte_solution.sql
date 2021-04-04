@@ -11,3 +11,6 @@ WHERE grp in (SELECT grp
               FROM cte
               GROUP BY grp
               HAVING COUNT(*) >= 2);
+              
+              
+              
