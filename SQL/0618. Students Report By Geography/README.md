@@ -8,7 +8,7 @@ The transformation of table data **from rows to columns** is called **pivoting t
 
 Rotate rows to columns using **CASE statement** and **Aggregate Function** such as SUM(), MAX(), MIN(), COUNT(), it depends what kind of information you want to get.
 
-## [Window function Explaination](https://leetcode.com/problems/students-report-by-geography/discuss/672308/(_)-MySQL-Solutions%3A-WINDOW-variables-(Follow-up-answer))
+## [ROW_NUMBER Window Function Pivot Table Explaination](https://leetcode.com/problems/students-report-by-geography/discuss/672308/(_)-MySQL-Solutions%3A-WINDOW-variables-(Follow-up-answer))
 
 ## [Assignment Operators Pivot Table Solution Explaination](https://leetcode.com/problems/students-report-by-geography/discuss/182616/follow-up-accepted-solution)
 
