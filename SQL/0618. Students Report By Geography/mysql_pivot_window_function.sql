@@ -14,3 +14,5 @@ FROM (SELECT name, continent, ROW_NUMBER() OVER(PARTITION BY continent
       FROM student) tbl
 GROUP BY row_id;
 
+
+
