@@ -1,4 +1,4 @@
-## Aggregate Function such as MAX(), MIN(), COUNT(), SUM() only consider Non-NULL values
+## Aggregate Function such as MAX(), MIN(), COUNT(), SUM() only consider Non-NULL values, when the value exists it returns the value, if not, NULL is printed
 
 ## [Assignment Operators :=](https://dev.mysql.com/doc/refman/8.0/en/assignment-operators.html)
 
