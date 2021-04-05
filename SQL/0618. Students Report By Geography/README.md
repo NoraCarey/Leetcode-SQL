@@ -4,7 +4,7 @@
 
 **:=** and **=** are both **Assignment Operators**, we could use them to Assign a value
 
-**:= Operator**
+### := Operator**
 
 For **:=**, we could use it in the **SET statement**
 
@@ -12,7 +12,7 @@ Unlike **=**, the **:=** operator is never interpreted as a comparison operator.
 
 We can make value assignments using **:=** in other statements besides **SELECT**, such as **UPDATE**
 
-**= Operator**
+### = Operator**
 
 Within a **SET** statement, **=** is treated as an assignment operator, **=** is treated identically to **:=**
 
