@@ -14,4 +14,8 @@ For example, **s%** matches any string starts with the character s such as sun a
 
 For example, The **se_** matches any string starts with  se and is followed by any character such as see and sea.
 
-# MOD() function
+# [MOD() function](https://www.w3schools.com/sql/func_mysql_mod.asp)
+
+The MOD() function returns the remainder of a number divided by another number.
+
+
