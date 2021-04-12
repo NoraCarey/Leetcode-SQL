@@ -1,0 +1,14 @@
+
+
+
+SELECT DISTINCT a.id, a.name
+FROM (SELECT l1.id
+      FROM Logins l1, Logins l2
+      WHERE l1.id = l2.id AND
+            DATEDIFF(l2.login_date, l1.login_date) BETWEEN 1 AND 4
+      GROUP BY l1.id, l1.login_date
+      HAVING COUNT(DISTINCT l2.login_date) >= 4) tbl
+JOIN Accounts a ON a.id = tbl.id
+ORDER BY 1;
+
+
