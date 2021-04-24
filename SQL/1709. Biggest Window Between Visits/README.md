@@ -1,0 +1,1 @@
+# [LEAD Window Function](https://www.sqltutorial.org/sql-window-functions/sql-lead/#:~:text=SQL%20LEAD()%20is%20a,which%20follows%20the%20current%20row.&text=The%20LEAD()%20function%20can,value%20of%20the%20following%20row.)
