@@ -49,7 +49,7 @@ This repository covers the Leetcode SQL problems, and solved by **_MySQL_**
 | 613 | [Shortest Distance in a Line](https://leetcode.com/problems/shortest-distance-in-a-line/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0613.%20Shortest%20Distance%20in%20a%20Line) | Easy | Self Join / ABS Function |
 | 614 | [Second Degree Follower](https://leetcode.com/problems/second-degree-follower/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0614.%20Second%20Degree%20Follower) | Medium | COUNT DISTINCT |
 | 615 | [Average Salary: Departments VS Company](https://leetcode.com/problems/average-salary-departments-vs-company/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0615.%20Average%20Salary:%20Departments%20VS%20Company) | Hard | DATE_FORMAT Function / Window Function(AVG) |
-| 618 | [Students Report By Geography](https://leetcode.com/problems/students-report-by-geography/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0618.%20Students%20Report%20By%20Geography) | Hard | Pivot Table |
+| 618 | [Students Report By Geography](https://leetcode.com/problems/students-report-by-geography/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0618.%20Students%20Report%20By%20Geography) | Hard | Pivot Table Problem |
 | 619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0619.%20Biggest%20Single%20Number) | Easy | IFNULL / MAX Function |
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0620.%20Not%20Boring%20Movies) | Easy | MOD Function / LIKE Operator |
 
