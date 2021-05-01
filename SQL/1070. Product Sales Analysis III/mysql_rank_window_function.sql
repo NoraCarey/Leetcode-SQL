@@ -6,3 +6,5 @@ FROM (SELECT *,
                          ORDER BY year) AS ranking
       FROM Sales) a
 WHERE ranking = 1;      
+
+
