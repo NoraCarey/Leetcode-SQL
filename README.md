@@ -52,6 +52,28 @@ This repository covers the Leetcode SQL problems, and solved by **_MySQL_**
 | 618 | [Students Report By Geography](https://leetcode.com/problems/students-report-by-geography/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0618.%20Students%20Report%20By%20Geography) | Hard | Pivot Table Problem |
 | 619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0619.%20Biggest%20Single%20Number) | Easy | IFNULL / MAX Function |
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0620.%20Not%20Boring%20Movies) | Easy | MOD Function / LIKE Operator |
+| 626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0626.%20Exchange%20Seats) | Medium | MOD Function / CASE Statement |
+| 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/0627.%20Swap%20Salary) | Easy | UPDATE Statement |
+| 1045 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1045.%20Customers%20Who%20Bought%20All%20Products) | Medium | Group by / Having |
+| 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times) | Easy | Group by / Having |
+| 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1068.%20Product%20Sales%20Analysis%20I) | Easy | Join |
+| 1069 | [Product Sales Analysis II](https://leetcode.com/problems/product-sales-analysis-ii/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1069.%20Product%20Sales%20Analysis%20II) | Easy | Group By |
+| 1070 | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1070.%20Product%20Sales%20Analysis%20III) | Medium | IN Subquery / Window Function(Rank) |
+| 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1075.%20Project%20Employees%20I) | Easy | AVG Function |
+| 1076 | [Project Employees II](https://leetcode.com/problems/project-employees-ii/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1076.%20Project%20Employees%20II) | Easy | ALL Subquery |
+| 1077 | [Project Employees III](https://leetcode.com/problems/project-employees-iii/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1077.%20Project%20Employees%20III) | Medium | IN Subquery / Window Function(RANK) |
+| 1082 | [Sales Analysis I](https://leetcode.com/problems/sales-analysis-i/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1082.%20Sales%20Analysis%20I) | Easy | ALL Subquery |
+| 1083 | [Sales Analysis II](https://leetcode.com/problems/sales-analysis-ii/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1083.%20Sales%20Analysis%20II) | Easy | NOT IN Subquery |
+| 1084 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1084.%20Sales%20Analysis%20III) | Easy | Time Period Problem |
+| 1084 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1084.%20Sales%20Analysis%20III) | Easy | Time Period Problem |
+
+
+
+
+
+
+
+
 
 
 
