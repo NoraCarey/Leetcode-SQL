@@ -66,6 +66,17 @@ This repository covers the Leetcode SQL problems, and solved by **_MySQL_**
 | 1083 | [Sales Analysis II](https://leetcode.com/problems/sales-analysis-ii/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1083.%20Sales%20Analysis%20II) | Easy | NOT IN Subquery |
 | 1084 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1084.%20Sales%20Analysis%20III) | Easy | Time Period Problem |
 | 1084 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1084.%20Sales%20Analysis%20III) | Easy | Time Period Problem |
+| 1097 | [Game Play Analysis V](https://leetcode.com/problems/game-play-analysis-v/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1097.%20Game%20Play%20Analysis%20V) | Hard | Window Function(FIRST_VALUE) / Window Function(NTH_VALUE) / MIN Function |
+| 1098 | [Unpopular Books](https://leetcode.com/problems/unpopular-books/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1098.%20Unpopular%20Books) | Medium | Right Join / DATEDIFF Function |
+| 1107 | [New Users Daily Count](https://leetcode.com/problems/new-users-daily-count/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1107.%20New%20Users%20Daily%20Count) | Medium | Subquery / Group by / DATEDIFF Function |
+| 1112 | [Highest Grade For Each Student](https://leetcode.com/problems/highest-grade-for-each-student/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1112.%20Highest%20Grade%20For%20Each%20Student) | Medium | IN Subquery / Window Function(ROW_NUMBER) |
+| 1113 | [Reported Posts](https://leetcode.com/problems/reported-posts/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1113.%20Reported%20Posts) | Easy | Count Distinct |
+| 1126 | [Active Businesses](https://leetcode.com/problems/active-businesses/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1126.%20Active%20Businesses) | Medium | AVG function / Group by / Having|
+
+
+
+
+
 
 
 
