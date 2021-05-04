@@ -80,6 +80,10 @@ This repository covers the Leetcode SQL problems, and solved by **_MySQL_**
 | 1149 | [Article Views II](https://leetcode.com/problems/article-views-ii/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1149.%20Article%20Views%20II) | Medium | Group By / Having |
 | 1158 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1158.%20Market%20Analysis%20I) | Medium | SQL Query Using Where or On Problem |
 | 1159 | [Market Analysis II](https://leetcode.com/problems/market-analysis-ii/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1159.%20Market%20Analysis%20II) | Hard | Window Function(Nth Value) / Window Function(Rank) |
+| 1164 | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1164.%20Product%20Price%20at%20a%20Given%20Date) | Medium | SQL Query Using Where or On Problem / Window Function(ROW_NUMBER) |
+| 1173 | [Immediate Food Delivery I](https://leetcode.com/problems/immediate-food-delivery-i/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1173.%20Immediate%20Food%20Delivery%20I) | Easy | Sum Case statement |
+| 1174 | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1174.%20Immediate%20Food%20Delivery%20II) | Medium | Left Join Subquery / Window Function(ROW_NUMBER) |
+
 
 
 
