@@ -79,6 +79,7 @@ This repository covers the Leetcode SQL problems, and solved by **_MySQL_**
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1148.%20Article%20Views%20I) | Easy | Select Distinct |
 | 1149 | [Article Views II](https://leetcode.com/problems/article-views-ii/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1149.%20Article%20Views%20II) | Medium | Group By / Having |
 | 1158 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1158.%20Market%20Analysis%20I) | Medium | SQL Query Using Where or On Problem |
+| 1159 | [Market Analysis II](https://leetcode.com/problems/market-analysis-ii/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1159.%20Market%20Analysis%20II) | Hard | Window Function(Nth Value) / Window Function(Rank) |
 
 
 
