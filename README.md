@@ -74,6 +74,15 @@ This repository covers the Leetcode SQL problems, and solved by **_MySQL_**
 | 1126 | [Active Businesses](https://leetcode.com/problems/active-businesses/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1126.%20Active%20Businesses) | Medium | AVG function / Group by / Having |
 | 1127 | [User Purchase Platform](https://leetcode.com/problems/user-purchase-platform/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1127.%20User%20Purchase%20Platform) | Hard | UNION ALL / Build New Table Problem |
 | 1132 | [Reported Posts II](https://leetcode.com/problems/reported-posts-ii/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1132.%20Reported%20Posts%20II) | Medium | Left Join / Count Distinct |
+| 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I) | Easy | DATEDIFF Function / Count Distinct |
+| 1142 | [User Activity for the Past 30 Days II](https://leetcode.com/problems/user-activity-for-the-past-30-days-ii/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1142.%20User%20Activity%20for%20the%20Past%2030%20Days%20II) | Easy | DATEDIFF Function / AVG Function |
+| 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1148.%20Article%20Views%20I) | Easy | Select Distinct |
+| 1149 | [Article Views II](https://leetcode.com/problems/article-views-ii/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1149.%20Article%20Views%20II) | Medium | Group By / Having |
+| 1158 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1158.%20Market%20Analysis%20I) | Medium | SQL Query Using Where or On Problem |
+
+
+
+
 
 
 
