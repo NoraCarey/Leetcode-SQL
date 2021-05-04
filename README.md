@@ -71,7 +71,9 @@ This repository covers the Leetcode SQL problems, and solved by **_MySQL_**
 | 1107 | [New Users Daily Count](https://leetcode.com/problems/new-users-daily-count/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1107.%20New%20Users%20Daily%20Count) | Medium | Subquery / Group by / DATEDIFF Function |
 | 1112 | [Highest Grade For Each Student](https://leetcode.com/problems/highest-grade-for-each-student/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1112.%20Highest%20Grade%20For%20Each%20Student) | Medium | IN Subquery / Window Function(ROW_NUMBER) |
 | 1113 | [Reported Posts](https://leetcode.com/problems/reported-posts/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1113.%20Reported%20Posts) | Easy | Count Distinct |
-| 1126 | [Active Businesses](https://leetcode.com/problems/active-businesses/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1126.%20Active%20Businesses) | Medium | AVG function / Group by / Having|
+| 1126 | [Active Businesses](https://leetcode.com/problems/active-businesses/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1126.%20Active%20Businesses) | Medium | AVG function / Group by / Having |
+| 1127 | [User Purchase Platform](https://leetcode.com/problems/user-purchase-platform/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1127.%20User%20Purchase%20Platform) | Hard | UNION ALL / Build New Table Problem |
+
 
 
 
