@@ -73,6 +73,7 @@ This repository covers the Leetcode SQL problems, and solved by **_MySQL_**
 | 1113 | [Reported Posts](https://leetcode.com/problems/reported-posts/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1113.%20Reported%20Posts) | Easy | Count Distinct |
 | 1126 | [Active Businesses](https://leetcode.com/problems/active-businesses/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1126.%20Active%20Businesses) | Medium | AVG function / Group by / Having |
 | 1127 | [User Purchase Platform](https://leetcode.com/problems/user-purchase-platform/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1127.%20User%20Purchase%20Platform) | Hard | UNION ALL / Build New Table Problem |
+| 1132 | [Reported Posts II](https://leetcode.com/problems/reported-posts-ii/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1132.%20Reported%20Posts%20II) | Medium | Left Join / Count Distinct |
 
 
 
