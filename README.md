@@ -83,6 +83,14 @@ This repository covers the Leetcode SQL problems, and solved by **_MySQL_**
 | 1164 | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1164.%20Product%20Price%20at%20a%20Given%20Date) | Medium | SQL Query Using Where or On Problem / Window Function(ROW_NUMBER) |
 | 1173 | [Immediate Food Delivery I](https://leetcode.com/problems/immediate-food-delivery-i/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1173.%20Immediate%20Food%20Delivery%20I) | Easy | Sum Case statement |
 | 1174 | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1174.%20Immediate%20Food%20Delivery%20II) | Medium | Left Join Subquery / Window Function(ROW_NUMBER) |
+| 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1179.%20Reformat%20Department%20Table) | Easy | Reformat Table Problem |
+| 1193 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1193.%20Monthly%20Transactions%20I) | Easy | Sum Case statement |
+| 1194 | [Tournament Winners](https://leetcode.com/problems/tournament-winners/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1194.%20Tournament%20Winners) | Hard | UNION ALL / Window Function(ROW_NUMBER) |
+| 1204 | [Last Person to Fit in the Elevator](https://leetcode.com/problems/last-person-to-fit-in-the-elevator/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1204.%20Last%20Person%20to%20Fit%20in%20the%20Elevator) | Medium | Window Function(SUM) / Self Join |
+| 1204 | [Last Person to Fit in the Elevator](https://leetcode.com/problems/last-person-to-fit-in-the-elevator/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1204.%20Last%20Person%20to%20Fit%20in%20the%20Elevator) | Medium | Window Function(SUM) / Self Join |
+
+
+
 
 
 
