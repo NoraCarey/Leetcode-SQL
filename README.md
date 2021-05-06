@@ -103,7 +103,7 @@ This repository covers the Leetcode SQL problems, and solved by **_MySQL_**
 | 1321 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1321.%20Restaurant%20Growth) | Medium | Window Function(SUM) / Window Function(AVG) |
 | 1322 | [Ads Performance](https://leetcode.com/problems/ads-performance/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1322.%20Ads%20Performance) | Medium | Click-Through Rate (CTR) Problem |
 | 1327 | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1327.%20List%20the%20Products%20Ordered%20in%20a%20Period) | Easy | Group By / Having |
-| 1336 | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1327.%20List%20the%20Products%20Ordered%20in%20a%20Period) | Easy | Group By / Having |
+
 
 
 
