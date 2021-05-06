@@ -87,7 +87,29 @@ This repository covers the Leetcode SQL problems, and solved by **_MySQL_**
 | 1193 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1193.%20Monthly%20Transactions%20I) | Easy | Sum Case statement |
 | 1194 | [Tournament Winners](https://leetcode.com/problems/tournament-winners/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1194.%20Tournament%20Winners) | Hard | UNION ALL / Window Function(ROW_NUMBER) |
 | 1204 | [Last Person to Fit in the Elevator](https://leetcode.com/problems/last-person-to-fit-in-the-elevator/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1204.%20Last%20Person%20to%20Fit%20in%20the%20Elevator) | Medium | Window Function(SUM) / Self Join |
-| 1204 | [Last Person to Fit in the Elevator](https://leetcode.com/problems/last-person-to-fit-in-the-elevator/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1204.%20Last%20Person%20to%20Fit%20in%20the%20Elevator) | Medium | Window Function(SUM) / Self Join |
+| 1205 | [Monthly Transactions II](https://leetcode.com/problems/monthly-transactions-ii/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1205.%20Monthly%20Transactions%20II) | Medium | Union All / Group By / Having |
+| 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1211.%20Queries%20Quality%20and%20Percentage) | Easy | Sum Case statement |
+| 1212 | [Team Scores in Football Tournament](https://leetcode.com/problems/team-scores-in-football-tournament/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1212.%20Team%20Scores%20in%20Football%20Tournament) | Medium | Union All / Right Join ON(OR) |
+| 1225 | [Report Contiguous Dates](https://leetcode.com/problems/report-contiguous-dates/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1225.%20Report%20Contiguous%20Dates) | Hard | Union All / Consecutive Date Problem |
+| 1241 | [Number of Comments per Post](https://leetcode.com/problems/number-of-comments-per-post/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1241.%20Number%20of%20Comments%20per%20Post) | Easy | Self Join |
+| 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1251.%20Average%20Selling%20Price) | Easy | On Statement |
+| 1264 | [Page Recommendations](https://leetcode.com/problems/page-recommendations/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1264.%20Page%20Recommendations) | Medium | Union / NOT IN Subquery |
+| 1270 | [All People Report to the Given Manager](https://leetcode.com/problems/all-people-report-to-the-given-manager/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1270.%20All%20People%20Report%20to%20the%20Given%20Manager) | Medium | Self Join |
+| 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1280.%20Students%20and%20Examinations) | Easy | Join Three Tables |
+| 1285 | [Find the Start and End Number of Continuous Ranges](https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1285.%20Find%20the%20Start%20and%20End%20Number%20of%20Continuous%20Ranges) | Medium | Consecutive Number Problem |
+| 1294 | [Weather Type in Each Country](https://leetcode.com/problems/weather-type-in-each-country/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1294.%20Weather%20Type%20in%20Each%20Country) | Easy | Case Statement |
+| 1303 | [Find the Team Size](https://leetcode.com/problems/find-the-team-size/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1303.%20Find%20the%20Team%20Size) | Easy | Window Function(COUNT) |
+| 1308 | [Running Total for Different Genders](https://leetcode.com/problems/running-total-for-different-genders/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1308.%20Running%20Total%20for%20Different%20Genders) | Medium | Window Function(SUM) |
+| 1321 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1321.%20Restaurant%20Growth) | Medium | Window Function(SUM) / Window Function(AVG) |
+| 1322 | [Ads Performance](https://leetcode.com/problems/ads-performance/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1322.%20Ads%20Performance) | Medium | Click-Through Rate (CTR) Problem |
+| 1327 | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1327.%20List%20the%20Products%20Ordered%20in%20a%20Period) | Easy | Group By / Having |
+| 1336 | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1327.%20List%20the%20Products%20Ordered%20in%20a%20Period) | Easy | Group By / Having |
+
+
+
+
+
+
 
 
 
