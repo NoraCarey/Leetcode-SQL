@@ -117,6 +117,9 @@ This repository covers the Leetcode SQL problems, and solved by **_MySQL_**
 | 1412 | [Find the Quiet Students in All Exams](https://leetcode.com/problems/find-the-quiet-students-in-all-exams/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1412.%20Find%20the%20Quiet%20Students%20in%20All%20Exams) | Hard | Not Best Not Worest Problem |
 | 1421 | [NPV Queries](https://leetcode.com/problems/npv-queries/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1421.%20NPV%20Queries) | Medium | Left Join / Ifnull Function |
 | 1435 | [Create a Session Bar Chart](https://leetcode.com/problems/create-a-session-bar-chart/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1435.%20Create%20a%20Session%20Bar%20Chart) | Easy | Union / CASE Statement |
+| 1440 | [Evaluate Boolean Expression](https://leetcode.com/problems/evaluate-boolean-expression/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1440.%20Evaluate%20Boolean%20Expression) | Medium | Join One Table Twice Problem |
+| 1445 | [Apples & Oranges](https://leetcode.com/problems/apples-oranges/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1445.%20Apples%20%26%20Oranges) | Medium | Sum Case Statement |
+
 
 
 
