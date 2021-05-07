@@ -103,6 +103,18 @@ This repository covers the Leetcode SQL problems, and solved by **_MySQL_**
 | 1321 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1321.%20Restaurant%20Growth) | Medium | Window Function(SUM) / Window Function(AVG) |
 | 1322 | [Ads Performance](https://leetcode.com/problems/ads-performance/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1322.%20Ads%20Performance) | Medium | Click-Through Rate (CTR) Problem |
 | 1327 | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1327.%20List%20the%20Products%20Ordered%20in%20a%20Period) | Easy | Group By / Having |
+| 1336 | [Number of Transactions per Visit](https://leetcode.com/problems/number-of-transactions-per-visit/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1336.%20Number%20of%20Transactions%20per%20Visit) | Hard | CTE / Window Function(ROW_NUMBER) |
+| 1341 | [Movie Rating](https://leetcode.com/problems/movie-rating/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1341.%20Movie%20Rating) | Medium | Union |
+| 1350 | [Students With Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1350.%20Students%20With%20Invalid%20Departments) | Easy | Not In Subquery / Left Join / IS NULL |
+| 1355 | [Activity Participants](https://leetcode.com/problems/activity-participants/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1355.%20Activity%20Participants) | Medium | Window Function(RANK) / CTE / MIN / MAX |
+| 1364 | [Number of Trusted Contacts of a Customer](https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1364.%20Number%20of%20Trusted%20Contacts%20of%20a%20Customer) | Medium | Left Join Three Tables |
+| 1369 | [Get the Second Most Recent Activity](https://leetcode.com/problems/get-the-second-most-recent-activity/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1369.%20Get%20the%20Second%20Most%20Recent%20Activity) | Hard | Window Function(RANK) / Window Function(COUNT) |
+| 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier) | Easy | Left Join |
+| 1369 | [Get the Second Most Recent Activity](https://leetcode.com/problems/get-the-second-most-recent-activity/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1369.%20Get%20the%20Second%20Most%20Recent%20Activity) | Hard | Window Function(RANK) / Window Function(COUNT) |
+| 1369 | [Get the Second Most Recent Activity](https://leetcode.com/problems/get-the-second-most-recent-activity/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1369.%20Get%20the%20Second%20Most%20Recent%20Activity) | Hard | Window Function(RANK) / Window Function(COUNT) |
+
+
+
 
 
 
