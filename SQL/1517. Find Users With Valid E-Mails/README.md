@@ -1,6 +1,6 @@
 # [RLIEK Operator](https://www.geeksforgeeks.org/rlike-operator-in-mysql/)
 
-**_RLIKE Fuction-** is used to performs a pattern match of a string expression against a pattern.
+**RLIKE Fuction** is used to performs a pattern match of a string expression against a pattern.
 
 * **^	caret(^)** matches Beginning of string
 * **$**	End of string
