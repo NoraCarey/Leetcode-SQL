@@ -23,12 +23,29 @@ SELECT name FROM student_tbl WHERE name REGEXP '[b-g].[a]';
 ```
 * **[0-9]**	match any digit from 0 through to 9
 * *	Zero or more instances of string preceding it
+```
+a* Match any sequence of zero or more 'a' characters.
+mysql> SELECT 'Ban' REGEXP '^Ba*n';                     -> 1
+mysql> SELECT 'Baaan' REGEXP '^Ba*n';                   -> 1
+mysql> SELECT 'Bn' REGEXP '^Ba*n';                      -> 1
+```
 * **+**	One or more instances of strings preceding it
+```
+Match any sequence of one or more 'a' characters.
+mysql> SELECT 'Ban' REGEXP '^Ba+n';                     -> 1
+mysql> SELECT 'Bn' REGEXP '^Ba+n';                      -> 0
+```
 * **.**	Any single character
+
 * **?**	Match zero or one instances of the strings preceding it
 ```
 Gives all the titles containing ‘com’. Example – comedy , romantic comedy.
 SELECT title FROM movies_tbl WHERE title REGEXP 'com?';
+
+a? Match either zero or one 'a' character.
+mysql> SELECT 'Bn' REGEXP '^Ba?n';                      -> 1
+mysql> SELECT 'Ban' REGEXP '^Ba?n';                     -> 1
+mysql> SELECT 'Baan' REGEXP '^Ba?n';                    -> 0
 ```
 * **[[:<:]]**	matches the beginning of words
 ```
@@ -52,6 +69,16 @@ SELECT name FROM student_tbl WHERE name REGEXP 'be|ae';
 ```
 * **{n}**	n instances of preceding element
 * **{m,n}**	m through n instances of preceding element
+
+To be more precise, a{n} matches exactly n instances of a. 
+a{n,} matches n or more instances of a. 
+a{m,n} matches m through n instances of a, inclusive. If both m and n are given, m must be less than or equal to n.
+
+```
+mysql> SELECT 'abcde' REGEXP 'a[bcd]{2}e';              -> 0
+mysql> SELECT 'abcde' REGEXP 'a[bcd]{3}e';              -> 1
+mysql> SELECT 'abcde' REGEXP 'a[bcd]{1,10}e';           -> 1
+```
 
 To use a literal instance of a special character in a regular expression, precede it by **two backslash (\)** characters. 
 
