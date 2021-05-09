@@ -22,7 +22,7 @@ Matches any single character(.)
 SELECT name FROM student_tbl WHERE name REGEXP '[b-g].[a]';
 ```
 * **[0-9]**	match any digit from 0 through to 9
-* *	Zero or more instances of string preceding it
+* **\***	Zero or more instances of string preceding it
 ```
 a* Match any sequence of zero or more 'a' characters.
 mysql> SELECT 'Ban' REGEXP '^Ba*n';                     -> 1
