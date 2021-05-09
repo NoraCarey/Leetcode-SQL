@@ -53,6 +53,11 @@ SELECT name FROM student_tbl WHERE name REGEXP 'be|ae';
 * **{n}**	n instances of preceding element
 * **{m,n}**	m through n instances of preceding element
 
+To use a literal instance of a special character in a regular expression, precede it by **two backslash (\)** characters. 
+```
+mysql> SELECT '1+2' REGEXP '1\+2';                      -> 0
+mysql> SELECT '1+2' REGEXP '1\\+2';                     -> 1
+```
 
 # [REGEXP Operator](https://www.geeksforgeeks.org/mysql-regular-expressions-regexp/)
 
