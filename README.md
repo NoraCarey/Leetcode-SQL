@@ -151,7 +151,7 @@ This repository covers the Leetcode SQL problems, and solved by **_MySQL_**
 | 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1683.%20Invalid%20Tweets) | Easy | Length Function |
 | 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1693.%20Daily%20Leads%20and%20Partners) | Easy | Group By |
 | 1699 | [Number of Calls Between Two Persons](https://leetcode.com/problems/number-of-calls-between-two-persons/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1699.%20Number%20of%20Calls%20Between%20Two%20Persons) | Medium | Union All / IF Statement / GREATEST Function / LEAST Function |
-
+| 1709 | [Biggest Window Between Visits](https://leetcode.com/problems/biggest-window-between-visits/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1709.%20Biggest%20Window%20Between%20Visits) | Medium | Window Function(LEAD) |
 
 
 
