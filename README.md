@@ -119,6 +119,38 @@ This repository covers the Leetcode SQL problems, and solved by **_MySQL_**
 | 1435 | [Create a Session Bar Chart](https://leetcode.com/problems/create-a-session-bar-chart/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1435.%20Create%20a%20Session%20Bar%20Chart) | Easy | Union / CASE Statement |
 | 1440 | [Evaluate Boolean Expression](https://leetcode.com/problems/evaluate-boolean-expression/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1440.%20Evaluate%20Boolean%20Expression) | Medium | Join One Table Twice Problem |
 | 1445 | [Apples & Oranges](https://leetcode.com/problems/apples-oranges/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1445.%20Apples%20%26%20Oranges) | Medium | Sum Case Statement |
+| 1454 | [Active Users](https://leetcode.com/problems/active-users/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1454.%20Active%20Users) | Medium | Consecutive Date Problem / Recursive CTE |
+| 1459 | [Rectangles Area](https://leetcode.com/problems/rectangles-area/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1459.%20Rectangles%20Area) | Medium | Self Join / ABS Function |
+| 1468 | [Calculate Salaries](https://leetcode.com/problems/calculate-salaries/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1468.%20Calculate%20Salaries) | Medium | Case Statement / Round Function |
+| 1479 | [Sales by Day of the Week](https://leetcode.com/problems/sales-by-day-of-the-week/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1479.%20Sales%20by%20Day%20of%20the%20Week) | Hard | Pivot Table Problem / DAYOFWEEK Function |
+| 1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1484.%20Group%20Sold%20Products%20By%20The%20Date) | Easy | Concat Function / Concat_WS Function / Group_Concat Function |
+| 1495 | [Friendly Movies Streamed Last Month](https://leetcode.com/problems/friendly-movies-streamed-last-month/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1495.%20Friendly%20Movies%20Streamed%20Last%20Month) | Easy | Date_Format Function |
+| 1501 | [Countries You Can Safely Invest In](https://leetcode.com/problems/countries-you-can-safely-invest-in/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1501.%20Countries%20You%20Can%20Safely%20Invest%20In) | Medium | Group By / Having |
+| 1511 | [Customer Order Frequency](https://leetcode.com/problems/customer-order-frequency/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1511.%20Customer%20Order%20Frequency) | Easy | Group By / Having  / Sum Case Statement |
+| 1517 | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1517.%20Find%20Users%20With%20Valid%20E-Mails) | Easy | RLIKE Operator / REGEXP Operator |
+| 1527 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1527.%20Patients%20With%20a%20Condition) | Easy | RLIKE Operator / REGEXP Operator / LIKE Operator |
+| 1532 | [The Most Recent Three Orders](https://leetcode.com/problems/the-most-recent-three-orders/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1532.%20The%20Most%20Recent%20Three%20Orders) | Medium | Window Function(RANK) |
+| 1543 | [Fix Product Name Format](https://leetcode.com/problems/fix-product-name-format/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1543.%20Fix%20Product%20Name%20Format) | Easy | LOWER Function / UPPER Function / TRIM Function |
+| 1549 | [The Most Recent Orders for Each Product](https://leetcode.com/problems/the-most-recent-orders-for-each-product/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1549.%20The%20Most%20Recent%20Orders%20for%20Each%20Product) | Medium | Window Function(RANK) |
+| 1555 | [Bank Account Summary](https://leetcode.com/problems/bank-account-summary/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1555.%20Bank%20Account%20Summary) | Medium | UNION ALL / CASE Statement |
+| 1565 | [Unique Orders and Customers Per Month](https://leetcode.com/problems/unique-orders-and-customers-per-month/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1565.%20Unique%20Orders%20and%20Customers%20Per%20Month) | Easy | Group By |
+| 1571 | [Warehouse Manager](https://leetcode.com/problems/warehouse-manager/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1571.%20Warehouse%20Manager) | Easy | Group By |
+| 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions) | Easy | Left Join / Not In Subquery |
+| 1587 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1587.%20Bank%20Account%20Summary%20II) | Easy | Left Join / Group By / Having |
+| 1596 | [The Most Frequently Ordered Products for Each Customer](https://leetcode.com/problems/the-most-frequently-ordered-products-for-each-customer/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1596.%20The%20Most%20Frequently%20Ordered%20Products%20for%20Each%20Customer) | Medium | Window Function(RANK) / Window Function(COUNT) |
+| 1607 | [Sellers With No Sales](https://leetcode.com/problems/sellers-with-no-sales/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1607.%20Sellers%20With%20No%20Sales) | Easy | Not In Subquery |
+| 1613 | [Find the Missing IDs](https://leetcode.com/problems/find-the-missing-ids/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1613.%20Find%20the%20Missing%20IDs) | Medium | Recursive CTE / SET Operator |
+| 1623 | [All Valid Triplets That Can Represent a Country](https://leetcode.com/problems/all-valid-triplets-that-can-represent-a-country/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1613.%20Find%20the%20Missing%20IDs) | Easy | Join Three Tables |
+| 1633 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1633.%20Percentage%20of%20Users%20Attended%20a%20Contest) | Easy | Group By |
+| 1633 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1633.%20Percentage%20of%20Users%20Attended%20a%20Contest) | Easy | Group By |
+
+
+
+
+
+
+
+
 
 
 
