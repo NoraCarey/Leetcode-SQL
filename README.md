@@ -142,7 +142,16 @@ This repository covers the Leetcode SQL problems, and solved by **_MySQL_**
 | 1613 | [Find the Missing IDs](https://leetcode.com/problems/find-the-missing-ids/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1613.%20Find%20the%20Missing%20IDs) | Medium | Recursive CTE / SET Operator |
 | 1623 | [All Valid Triplets That Can Represent a Country](https://leetcode.com/problems/all-valid-triplets-that-can-represent-a-country/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1613.%20Find%20the%20Missing%20IDs) | Easy | Join Three Tables |
 | 1633 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1633.%20Percentage%20of%20Users%20Attended%20a%20Contest) | Easy | Group By |
-| 1633 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1633.%20Percentage%20of%20Users%20Attended%20a%20Contest) | Easy | Group By |
+| 1635 | [Hopper Company Queries I](https://leetcode.com/problems/hopper-company-queries-i/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1635.%20Hopper%20Company%20Queries%20I) | Hard | Recursive CTE / Window Function(SUM) |
+| 1645 | [Hopper Company Queries II](https://leetcode.com/problems/hopper-company-queries-ii/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1645.%20Hopper%20Company%20Queries%20II) | Hard | Recursive CTE / Window Function(SUM) |
+| 1651 | [Hopper Company Queries III](https://leetcode.com/problems/hopper-company-queries-iii/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1651.%20Hopper%20Company%20Queries%20III) | Hard | Recursive CTE / Window Function(AVG) |
+| 1661 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1661.%20Average%20Time%20of%20Process%20per%20Machine) | Easy | Self Join |
+| 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1667.%20Fix%20Names%20in%20a%20Table) | Easy | Substring Function |
+| 1677 | [Product's Worth Over Invoices](https://leetcode.com/problems/products-worth-over-invoices/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1677.%20Product's%20Worth%20Over%20Invoices) | Easy | Group By |
+| 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1683.%20Invalid%20Tweets) | Easy | Length Function |
+| 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1693.%20Daily%20Leads%20and%20Partners) | Easy | Group By |
+| 1699 | [Number of Calls Between Two Persons](https://leetcode.com/problems/number-of-calls-between-two-persons/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1699.%20Number%20of%20Calls%20Between%20Two%20Persons) | Medium | Union All / IF Statement / GREATEST Function / LEAST Function |
+
 
 
 
