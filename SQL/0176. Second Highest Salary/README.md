@@ -21,15 +21,6 @@ The following ilustrates the **_IF_** Function:
 IF(condition, value_if_true, value_if_false)
 ```
 
-Mysql [IF LIMIT OFFSET Solution](mysql_if_limit_offset.sql):
-```sql
-SELECT IF(COUNT(DISTINCT Salary) = 1, NULL, (SELECT Salary
-                                             FROM Employee
-                                             ORDER BY Salary DESC
-                                             LIMIT 1, 1)) AS SecondHighestSalary
-FROM Employee;
-```
-
 ## COALESCE function
 
 The following illustrates the **_COALESCE_** function syntax:
@@ -46,14 +37,6 @@ SELECT COALESCE(NULL, 0);  -- 0
 SELECT COALESCE(NULL, NULL); -- NULL;
 ```
 
-Mysql [COALESCE_LIMIT_OFFSET Solution](mysql_coalesce_limit_offset.sql):
-```sql
-SELECT COALESCE((SELECT DISTINCT Salary
-                 FROM Employee
-                 ORDER BY Salary DESC
-                 LIMIT 1, 1), NULL) AS SecondHighestSalary;
-```
-
 ## IFNULL function
 
 **_IFNULL_** function is one of the MySQL control flow functions that accepts **_two_** arguments and returns the first argument if it is **_not NULL_**.
@@ -63,11 +46,4 @@ The following illustrates the **_IFNULL_** function syntax:
 IFNULL(expression_1,expression_2);
 ```
 
-Mysql [IFNULL_LIMIT_OFFSET Solution](mysql_ifnull_limit_offset.sql):
-```
-SELECT IFNULL((SELECT DISTINCT Salary
-                 FROM Employee
-                 ORDER BY Salary DESC
-                 LIMIT 1, 1), NULL) AS SecondHighestSalary;
-```
 
