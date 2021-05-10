@@ -4,17 +4,15 @@
 
 # Calculations could not be used inside the RETRUN block, we need to do the calculations outside the block. 
 
-CREATE FUNCTION getNthHighestSalary(N INT) 
-RETURNS INT
+CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
 BEGIN
 SET N := N - 1;
   RETURN (
       # Write your MySQL query statement below.
-      SELECT COALESCE((SELECT DISTINCT Salary
-                       FROM Employee
-                       ORDER BY Salary DESC
-                       LIMIT N, 1), NULL)
-          );
+      SELECT IFNULL((SELECT DISTINCT Salary
+                     FROM Employee
+                     ORDER BY Salary DESC
+                     LIMIT 1 OFFSET N), NULL)     
+  );
 END
-
 
