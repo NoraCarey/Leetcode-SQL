@@ -152,6 +152,29 @@ This repository covers the Leetcode SQL problems, and solved by **_MySQL_**
 | 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1693.%20Daily%20Leads%20and%20Partners) | Easy | Group By |
 | 1699 | [Number of Calls Between Two Persons](https://leetcode.com/problems/number-of-calls-between-two-persons/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1699.%20Number%20of%20Calls%20Between%20Two%20Persons) | Medium | Union All / IF Statement / GREATEST Function / LEAST Function |
 | 1709 | [Biggest Window Between Visits](https://leetcode.com/problems/biggest-window-between-visits/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1709.%20Biggest%20Window%20Between%20Visits) | Medium | Window Function(LEAD) |
+| 1715 | [Count Apples and Oranges](https://leetcode.com/problems/count-apples-and-oranges/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1715.%20Count%20Apples%20and%20Oranges) | Medium | Left Join / IFNULL Function |
+| 1729 | [Find Followers Count](https://leetcode.com/problems/find-followers-count/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1729.%20Find%20Followers%20Count) | Easy | Group By |
+| 1731 | [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1731.%20The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee) | Easy | Self Join |
+| 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee) | Easy | Group By |
+| 1747 | [Leetflex Banned Accounts](https://leetcode.com/problems/leetflex-banned-accounts/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1747.%20Leetflex%20Banned%20Accounts) | Medium | Self Join |
+| 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1757.%20Recyclable%20and%20Low%20Fat%20Products) | Easy | And Condition |
+| 1767 | [Find the Subtasks That Did Not Execute](https://leetcode.com/problems/find-the-subtasks-that-did-not-execute/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1767.%20Find%20the%20Subtasks%20That%20Did%20Not%20Execute) | Hard | Recursive CTE |
+| 1777 | [Product's Price for Each Store](https://leetcode.com/problems/products-price-for-each-store/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1777.%20Product's%20Price%20for%20Each%20Store) | Easy | Pivot Table Problem |
+| 1783 | [Grand Slam Titles](https://leetcode.com/problems/grand-slam-titles/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1783.%20Grand%20Slam%20Titles) | Medium | Pivot Table Problem |
+| 1789 | [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1789.%20Primary%20Department%20for%20Each%20Employee) | Easy | UNION / Window Function(COUNT) |
+| 1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1795.%20Rearrange%20Products%20Table) | Easy | Unpivot Table Problem |
+| 1809 | [Ad-Free Sessions](https://leetcode.com/problems/ad-free-sessions/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1809.%20Ad-Free%20Sessions) | Easy | Not In Subquery / Left Join / IS NULL |
+| 1811 | [Find Interview Candidates](https://leetcode.com/problems/find-interview-candidates/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1811.%20Find%20Interview%20Candidates) | Medium | Consecutive Number Problem |
+| 1821 | [Find Customers With Positive Revenue this Year](https://leetcode.com/problems/find-customers-with-positive-revenue-this-year/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1821.%20Find%20Customers%20With%20Positive%20Revenue%20this%20Year) | Easy | AND Condition |
+| 1831 | [Maximum Transaction Each Day](https://leetcode.com/problems/maximum-transaction-each-day/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1831.%20Maximum%20Transaction%20Each%20Day) | Medium | Windwo Function(RANK) / NOT IN Subquery / MAX Function |
+| 1841 | [League Statistics](https://leetcode.com/problems/league-statistics/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1841.%20League%20Statistics) | Medium | Windwo Function(RANK) / UNION ALL / CASE Statement |
+| 1843 | [Suspicious Bank Accounts](https://leetcode.com/problems/suspicious-bank-accounts/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1843.%20Suspicious%20Bank%20Accounts) | Medium | Consecutive Number Problem |
+| 1853 | [Convert Date Format](https://leetcode.com/problems/convert-date-format/) | [Mysql](https://github.com/NoraCarey/Leetcode-SQL/tree/main/SQL/1853.%20Convert%20Date%20Format) | Easy | Date and Time Function |
+
+
+
+
+
 
 
 
