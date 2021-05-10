@@ -1,5 +1,5 @@
 
-## LIMIT clause
+## [LIMIT clause](https://www.mysqltutorial.org/mysql-limit.aspx)
 
 The following illustrates the **_LIMIT_** clause syntax with two arguments:
 ```
@@ -14,14 +14,14 @@ In this syntax:
 * The **_offset_** specifies the offset of the first row to return. The **_offset_** of the first row is **0, not 1**.
 * The **_row_count_** specifies the number of rows to return
 
-## IF function
+## [IF function](https://www.w3schools.com/mysql/func_mysql_if.asp)
 
 The following ilustrates the **_IF_** Function:
 ```
 IF(condition, value_if_true, value_if_false)
 ```
 
-## COALESCE function
+## [COALESCE function](https://www.w3schools.com/mysql/func_mysql_coalesce.asp)
 
 The following illustrates the **_COALESCE_** function syntax:
 ```
@@ -37,7 +37,7 @@ SELECT COALESCE(NULL, 0);  -- 0
 SELECT COALESCE(NULL, NULL); -- NULL;
 ```
 
-## IFNULL function
+## [IFNULL function](https://www.mysqltutorial.org/mysql-ifnull/)
 
 **_IFNULL_** function is one of the MySQL control flow functions that accepts **_two_** arguments and returns the first argument if it is **_not NULL_**.
 
