@@ -54,7 +54,7 @@ WHERE
 			id,
 			ROW_NUMBER() OVER (
 				PARTITION BY email
-				ORDER BY email) AS row_num
+				ORDER BY id) AS row_num
 		FROM 
 			contacts
 		
